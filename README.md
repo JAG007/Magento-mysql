@@ -1,5 +1,6 @@
 ﻿magento-mysql
 -------------
+NOT THE OFFICIAL PROJECT PLEASE VISIT: https://www.magenx.com
 
 Magento default mysql settings
 ==============================
